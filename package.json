@@ -8,8 +8,12 @@
     "start": "next start"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "final-form-submit-listener": "^1.0.0",
     "next": "9.3.5",
+    "next-tinacms-github": "^0.0.2-canary4.2",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-tinacms-github": "^0.0.1-canary3.2"
   }
 }
